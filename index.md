@@ -1,3 +1,16 @@
+Bio:
+# Trajectory of my highly nonlinear curiosty (and so, the career followed) from 2011 to now:
+
+A classical music student in highschool, initially aimed to graduate from London College of Music but went to college as an Interior Design and Fine Arts student in Antalya, TR, graduated as a philosopher of (cognitive) science, did a master’s heavily focused on logic and theory of computation at METU; attended two summer schools (LMU-Munich in Germany and KLI in Austria) in the meantime; had a pre-doctoral training on neurosciences at the Brain Institute in Florida, USA; currently research assistant at the Center for Complex Systems and Brain Sciences working on computational neuroscience (with a specialty on reinforcement learning and predictive coding); headed to the attractor point of ‘AI engineering’.
+
+Projects:
+
+
+
+Publications:
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/basakkcgl/whoisbasak/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
