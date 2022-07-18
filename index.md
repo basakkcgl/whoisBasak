@@ -1,6 +1,6 @@
 # So, who is Basak ?
 
-I want to create machines that are smarter than humans. I try to do that by *'translating'* what we know from neuroscience into machines.
+I want to create machines that are better (more efficient and robust in learning) than humans. I try to achieve that by *'translating'* what we know from neuroscience into machines. And sometimes I go the other way around, and look into latest deep learning methods to understand brain.
 
 ## A short bio, aka. trajectory of my highly nonlinear curiosty (and so, the career followed) from 2011 to now:
 
