@@ -1,6 +1,9 @@
 # So, who is Basak ?
 
 [About](./_pages/aboutme.html)
+[Projects](./_pages/aboutme.html)
+[Publications](./_pages/publications.html)
+[Readings/Notes/Cool resources](./_pages/notes.html)
 
 I work on explainable AI. Once we have some explanation on **why** neural networks do they do what they do, I want to create machines that are better (more efficient and robust in learning) than humans. I try to achieve that by *'translating'* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with latest deep learning methods to get some insights on brains.
 
@@ -11,6 +14,12 @@ I am interested in structure-function relations. So basically I try to understan
 Degeneracy (or functional compensation) was my biggest leverage against the causal models. I studied all the models (at least up until 2018 - when I defended my MA thesis) to model/infer causal relations in complex systems (such as brain) and pointed out that all of them **except one** either have *costly* assumptions in the model that don't apply for **nonlinear** systems, or they just don't generalize at all. That exception was called **counterfactual** models of causality and basically I did not have much to argue against it. **But** then I **showed** that counterfactual models cannot apply in cases where the system is highly degenerate.  So, I won (philosophically speaking). And since then I try to mathematically formalize this weird phenomenon that got me passed my MA defense (thank you weird thing!).
 
 
+
+
+
+<!---
+All this should be 
+commented out
 
 ## Reading list/ notes/ sources:
 - Bulleted
@@ -27,10 +36,6 @@ Degeneracy (or functional compensation) was my biggest leverage against the caus
 - Bulleted
 - List
 
-
-<!---
-All this should be 
-commented out
 
 
 ## Welcome to GitHub Pages
