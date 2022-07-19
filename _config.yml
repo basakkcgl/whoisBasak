@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: [Basak Kocaoglu]
 description: [description]
 logo: /assets/img/logo.png
+include: ["_pages"]
