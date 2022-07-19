@@ -10,11 +10,6 @@ I am interested in structure-function relations. So basically I try to understan
 ### weird thing?
 Degeneracy (or functional compensation) was my biggest leverage against the causal models. I studied all the models (at least up until 2018 - when I defended my MA thesis) to model/infer causal relations in complex systems (such as brain) and pointed out that all of them **except one** either have *costly* assumptions in the model that don't apply for **nonlinear** systems, or they just don't generalize at all. That exception was called **counterfactual** models of causality and basically I did not have much to argue against it. **But** then I **showed** that counterfactual models cannot apply in cases where the system is highly degenerate.  So, I won (philosophically speaking). And since then I try to mathematically formalize this weird phenomenon that got me passed my MA defense (thank you degeneracy!).
 
-## A short bio, aka. trajectory of my highly nonlinear curiosty (and so, the career followed):
-
-A classical music literate in highschool, initially aimed to graduate from London College of Music but went to college as an Interior Design and Fine Arts student in Antalya, but then got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and graduated as a philosopher of (cognitive) science, followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at METU; in the meantime, attended two summer schools (LMU-Munich, Germany and KLI, Austria); had a pre-doctoral training on neurosciences at the Brain Institute in Florida, USA; currently research assistant at the Center for Complex Systems and Brain Sciences working on computational neuroscience (with a specialty on reinforcement learning and predictive coding); headed to the attractor ‘AI engineering’.
-
-
 
 ## Projects:
 
@@ -25,6 +20,7 @@ A classical music literate in highschool, initially aimed to graduate from Londo
 ## Publications:
 - Bulleted
 - List
+
 
 <!---
 All this should be 
