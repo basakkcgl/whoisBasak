@@ -11,6 +11,12 @@ I am interested in structure-function relations. So basically I try to understan
 Degeneracy (or functional compensation) was my biggest leverage against the causal models. I studied all the models (at least up until 2018 - when I defended my MA thesis) to model/infer causal relations in complex systems (such as brain) and pointed out that all of them **except one** either have *costly* assumptions in the model that don't apply for **nonlinear** systems, or they just don't generalize at all. That exception was called **counterfactual** models of causality and basically I did not have much to argue against it. **But** then I **showed** that counterfactual models cannot apply in cases where the system is highly degenerate.  So, I won (philosophically speaking). And since then I try to mathematically formalize this weird phenomenon that got me passed my MA defense (thank you weird thing!).
 
 
+
+## Reading list/ notes/ sources:
+- Bulleted
+- List
+
+
 ## Projects:
 
 - Bulleted
