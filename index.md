@@ -2,7 +2,7 @@
 
 [About](./_pages/aboutme.html)
 
-I work on explainable AI. Once we have some explanation on **why** do they do what they do, I want to create machines that are better (more efficient and robust in learning) than humans. I try to achieve that by *'translating'* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with latest deep learning methods to understand brain.
+I work on explainable AI. Once we have some explanation on **why** neural networks do they do what they do, I want to create machines that are better (more efficient and robust in learning) than humans. I try to achieve that by *'translating'* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with latest deep learning methods to understand brain.
 
 ### XAI or sci-fi?
 I am interested in structure-function relations. So basically I try to understand how structure (neural architecture) give rise to functions (anything you can thinkg of, learning etc.). But, also from evolution, we know that function (as an emergent property of complex networks/interactions) give rise to [new] structures. And sometimes (actually perhaps more accurate to say, oftentimes) **a weird thing** happens: different structures (hence carrying different functions) do serve the same function after some perturbation, or lesion. This weird phenomenon (also referred as degeneracy, multiple solutions, functional overlap, etc.) is my main research across different complex systems. I try to come up with a mathematical framework to formulate this phenomenon. Once I formulate that, then we can make machines (or any other network systems) more resilient and more efficient to the tasks we favor. 
