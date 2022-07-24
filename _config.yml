@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Basak Kocaoglu]
 description: [description]
-logo: _assets/img/pages.png
+logo: assets/img/pages.png
 include: ["_pages"]
