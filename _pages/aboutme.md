@@ -8,6 +8,6 @@ A classical music literate in highschool, initially aimed to graduate from Londo
 
 I want to be an ‘AI engineer’ when I grow up :)
 
-Warning: If ever got missing, can be found in museums (art, ancient Greek, or science/natural history) sitting on the floor and sketching some ideas. Or, if any sea/ocean is nearby, probably tanning (hey I am Aegean, okay?...).
+Warning: If ever got missing, can be found in museums (art, ancient Greek, or science/natural history) sitting on the floor and sketching some ideas. Or, if any sea/ocean is nearby, probably complaining about the water quality not matching her standards (hey I am Aegean, okay?...).
 
 [back](../index.md)
