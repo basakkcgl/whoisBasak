@@ -1,6 +1,6 @@
 # So, who is Basak ?
 
-[About](./_pages/aboutme.html) || [Projects and Tools](./_pages/tools.html) || [Publications](./_pages/publications.html) || [Computational Biodesign/Arts](./_pages/notes.html) || [Readings/Notes/Cool resources](./_pages/notes.html)
+[About](./_pages/aboutme.html) || [Projects and Tools](./_pages/tools.html) || [Publications](./_pages/publications.html) || [Computational Biodesign/Arts](./_pages/notes.html) || [Readings/Notes/Resources](./_pages/notes.html)
 
 I work on explainable AI. Once we have some explanation on **why** neural networks do they do what they do, I want to create machines that are better (more efficient and robust in learning) than humans. I try to achieve that by *" translating "* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with deep learning methods to get some insights on brains.
 
