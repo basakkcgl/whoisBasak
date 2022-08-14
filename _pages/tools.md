@@ -7,7 +7,7 @@ layout: default
 
 
 ## Tools:
-[To run noisy random Boolean networks with perturbations and lesion them as you wish]([link](https://github.com/basakkcgl/RBNsims))
+[To run noisy random Boolean networks with perturbations and lesion them as you wish](https://github.com/basakkcgl/RBNsims)
 
 [name](link)
 [name](link)
