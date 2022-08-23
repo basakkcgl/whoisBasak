@@ -3,3 +3,6 @@ title: [Basak Kocaoglu]
 description: [stuff will be added here]
 logo: assets/img/pages.png
 include: ["_pages"]
+
+plugins:
+  - jekyll-gist
