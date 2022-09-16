@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: [Basak Kocaoglu]
-description: [(If you are like me and only look at the lights in the picture thinking that hacking it with simple GoL (e.g https://learn.adafruit.com/game-of-life) would be fun... please reach out to me :) )]
+description: [(If the lights in the above pic also makes you think that hacking it with simple GoL 
+(e.g https://learn.adafruit.com/game-of-life) would be fun... 
+please reach out to me :] )]
 logo: assets/img/imgg.png
 include: ["_pages"]
 
