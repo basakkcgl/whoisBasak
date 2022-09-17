@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: [Basak Kocaoglu]
-description: [(If the lights in the above pic also makes you think that hacking it with simple circuit for GoL 
-(e.g https://learn.adafruit.com/game-of-life) would be fun... 
+description: [(If the lights in the above pic also makes you think that hacking it with simple circuit for Conway's Game of Life 
+(e.g https://www.adafruit.com/product/89) would be fun... 
 please reach out to me :) )]
 logo: assets/img/imgg.png
 include: ["_pages"]
