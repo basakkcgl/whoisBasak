@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Open source publications:
+## Open access:
 
 Kocaoglu, B; Alexander, W., [Degeneracy measures in biologically plausible random
 Boolean networks. BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04601-5) (2022) 23:71.
