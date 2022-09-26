@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: [Basak Kocaoglu]
-description: [(If the lights in the above pic also makes you think that hacking it to play Conway's Game of Life 
-(as in adafruit.com/product/89) would be fun... 
-please do reach out to me :) )]
+description: [(If the lights in the above pic also makes you think that it could play Conway's Game of Life 
+(as in adafruit.com/product/89)... 
+please do reach out :) )]
 logo: assets/img/imgg.png
 include: ["_pages"]
 
