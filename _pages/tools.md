@@ -16,8 +16,9 @@ Non-stationary time series data generation and selective masking [(will be added
 [name](link)
 [name](link)
 [back](../index.md)
+<a href="(../index.md)" style="color: blue; text-decoration: underline;">back</a>
 
   -->
 
+[back](../index.md)
 
-<a href="(../index.md)" style="color: blue; text-decoration: underline;">back</a>
