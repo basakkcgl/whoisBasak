@@ -11,6 +11,9 @@ A classical music literate in highschool, initially aimed to graduate from Londo
 
 
 <!-- <a href="(../index.md)" style="color: blue; text-decoration: underline;">CV (Fall 2022)</a> -->
+<a href="https://www.overleaf.com/read/pbfctkyytvwv"> Detailed personal research history statement (last update: December 2022) </a>
+
+
 
 
 Warning: If ever got missing, can be found in museums (art, ancient Greek, or natural history) sitting on the floor and sketching some ideas. Or, if any sea/ocean is nearby, probably complaining about the water quality not matching my standards (translates as, "being Aegean").
