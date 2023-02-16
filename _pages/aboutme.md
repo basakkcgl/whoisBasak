@@ -11,7 +11,7 @@ A classical music literate in highschool, initially aimed to graduate from Londo
 
 
 <!-- <a href="(../index.md)" style="color: blue; text-decoration: underline;">CV (Fall 2022)</a> -->
-Here is my <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=share_link"> detailed personal research history statement (last update: December 2022) </a>
+Here is my <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing"> (detailed) personal research history statement (last update: December 2022) </a>
 
 
 
