@@ -2,7 +2,7 @@
 
 [About](./_pages/aboutme.html) || [Projects and Tools](./_pages/tools.html) || [Publications](./_pages/publications.html) || [Readings/Notes/Misc](./_pages/notes.html)
 
-Please check out [here](../_pages/aboutme.md) to see my bio and personal research history.
+Please check out [here](./_pages/aboutme.html) to see my bio and personal research history.
 
 ### My research interests
 I work on explainable AI. Once we have some explanation on **why** neural networks do they do what they do, I want to create machines that are better (more efficient and robust in learning) than humans. I try to achieve that by *"translating"* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with machine learning methods to get some insights on brains.
