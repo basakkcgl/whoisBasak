@@ -6,7 +6,7 @@ Please check out [here](./_pages/aboutme.html) to see my bio and personal resear
 
 I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks due to the naive assumptions we had to make for the sake of simplicity or computational complexity. I have genuine interest in edge cases where our models don't work at all. Instead of ignoring such cases, I try to find out why they don't work.
 
-> "What do scientists and painters have common? They both tend to fall in love with their models" (heard in Venice, KLI Summer School, 2017)
+> "What do scientists and painters have in common? They both tend to fall in love with their models" (heard in Venice, KLI Summer School, 2017)
 
 ### My research interests
 In particular, I am interested in edge cases concerning the fundamental problems in explainable AI. Once we have some explanation on **why** neural networks do they do what they do (which requires questioning causality in the network), I want to create machines that are more efficient and robust in learning. I try to achieve that by *"translating"* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with machine learning methods to get some insights on brains.
