@@ -14,6 +14,8 @@ Until recently I was a research assistant at the Center for Complex Systems and 
 <!-- <a href="(../index.md)" style="color: blue; text-decoration: underline;">CV (Fall 2022)</a> -->
 For technical explanations, please check my <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing"> (detailed) personal research history statement (last updated: December 2022) </a>
 
+For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> 
+
 
 Warning: If ever got missing, can be found in museums (fine arts, ancient Greek, or natural history) sitting on the floor and sketching some ideas. Or, if any sea/ocean is nearby, probably complaining about the water quality not matching my standards (translates as, "being Aegean").
 
