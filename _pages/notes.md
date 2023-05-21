@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Notes etc.
+## Alternatives to Turing Machines
+## Kolmogorov Machines
+## New Theory of Computation for AI
 
 here are some stuff 
 
