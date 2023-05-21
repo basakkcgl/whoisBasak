@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+[Publications](./_pages/publications.html)
+
 
 ## Trajectory of my highly nonlinear curiosty (hence the career followed):
 
