@@ -18,6 +18,6 @@ For my experience in teaching, please check <a href="https://drive.google.com/fi
 
 Warning: If ever got missing, can be found in museums (fine arts, ancient Greek, or natural history) sitting on the floor and sketching some ideas. Or, if any sea/ocean is nearby, probably complaining about the water quality not matching my standards (translates as, "being Aegean").
 
-[Publications](../_pages/publications.html)
+[Publications](../publications.html)
 
 [back](../index.md)
