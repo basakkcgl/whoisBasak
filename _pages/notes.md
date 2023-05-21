@@ -2,11 +2,18 @@
 layout: default
 ---
 
+
+Theoretical CS:
 ## Alternatives to Turing Machines
 ## Kolmogorov Machines
 ## New Theory of Computation for AI
 
-here are some stuff 
+Causality:
+
+
+Bisimulation:
+
+
 
 
 [back](../index.md)
