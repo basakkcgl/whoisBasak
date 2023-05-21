@@ -1,15 +1,15 @@
 # So, who is Basak ?
 
-[About](./_pages/aboutme.html) || [Projects and Tools](./_pages/tools.html) || [Publications](./_pages/publications.html) || [Readings/Notes/Misc](./_pages/notes.html)
+[About](./_pages/aboutme.html) || [Projects and Tools](./_pages/tools.html) || [Theoretical Computer Science](./_pages/notes.html) || [Theory and Models of Causation](./_pages/notes.html)
 
-Please check out [here](./_pages/aboutme.html) to see my bio and personal research history.
+Please check out [About](./_pages/aboutme.html) to see my bio and personal research history.
 
 I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks due to the naive assumptions we had to make for the sake of simplicity or computational complexity. I have genuine interest in edge cases where our models don't work at all. Instead of ignoring such cases, I try to find out why they don't work.
 
 > "What do scientists and painters have in common? They both tend to fall in love with their models" (heard in Venice, KLI Summer School, 2017)
 
 ### My research interests
-In particular, I am interested in edge cases concerning the fundamental problems in explainable AI. Once we have some explanation on **why** neural networks do they do what they do (which requires questioning causality in the network), I want to create machines that are more efficient and robust in learning. I try to achieve that by *"translating"* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with machine learning methods to get some insights on brains.
+In particular, I am interested in edge cases concerning the fundamental problems in explainable AI. Once we have some explanation on **why** neural networks do they do what they do (which requires questioning **causality** in the network), I want to create machines that are more efficient and robust in learning. I try to achieve that by *"translating"* what we know from neuroscience into machines. And sometimes I go the other way around, and play around with machine learning methods to get some insights on brains.
 
 ### XAI or Sci-Fi?
 On a broader scope, I am interested in structure-function relations. So, basically, I try to understand how structure (neural architecture) gives rise to functions (learning, behavior etc., or dysfunctions like brain disorders). But, also from evolution, we know that function (as an emergent property of complex networks/interactions) gives rise to [new] structures. And sometimes (perhaps more accurate to say, oftentimes) **a weird thing** happens: different structures (hence carrying different causative functions) do serve the same function after some perturbation, or lesion. This weird phenomenon (also referred as degeneracy, multiple solutions, functional overlap, etc.) is my main research across different complex systems. I try to come up with a mathematical framework to formulate this phenomenon. Once I formulate that, then we can make machines (or any other networked systems) more resilient and more efficient for the tasks we favor. 
