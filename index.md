@@ -1,6 +1,6 @@
 # So, who is Basak ?
 
-[About](./_pages/aboutme.html) || [Projects and Tools](./_pages/tools.html) || [Theoretical Computer Science](./_pages/notes.html) || [Theory and Models of Causation](./_pages/notes.html)
+[About](./_pages/aboutme.html) || [Projects and Tools](./_pages/tools.html) || [Theoretical Computer Science](./_pages/notes.html) || [Theory and Models of Causation](./_pages/notes_causal.html)
 
 Please check out [About](./_pages/aboutme.html) to see my bio and personal research history.
 
