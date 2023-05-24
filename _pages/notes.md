@@ -14,7 +14,7 @@ My question is, briefly, does bisimulation relation necessarily imply same/simil
 (May 2022) Notes for Discrete Maths
 
 
-(Summer 2021) New direction in **Theoretical CS**
+(Summer 2021) New direction in Theoretical CS
 
 Soon to be posted thoughts and notes on:
 **Alternatives to Turing Machines: Kolmogorov Machines**
