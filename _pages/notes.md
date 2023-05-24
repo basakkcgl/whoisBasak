@@ -11,13 +11,14 @@ As you might remember, I was working on the term degeneracy - defined as functio
 My question is, briefly, does bisimulation relation necessarily imply same/similar output (or terminal states)? If so, I don't think equivariance would be directly related to bisimulation since it implies similarity in transitions = "behavior" to a potentially different output with same variance? (such as in the case of analogous tasks). But also it makes sense to relate equivariance to bisimulation, since in the strong definition of bisimulation, state transitions should be the same (very nice talk about [probabilistic bisimulation](https://simons.berkeley.edu/talks/simulation-bisimulations-probabilistic-systems-their-logical-contents)) which I think it relates to NFA-DFA (as in Finite Automata) "equivalence" but in that case, terminal states should remain the same (as outputs)?
 
 
+(May 2022) Notes for Discrete Maths:
 
 
 (Summer 2021) New direction in **Theoretical CS**:
 
 Soon to be posted thoughts and notes on:
 **Alternatives to Turing Machines: Kolmogorov Machines**
-*Encoding and processing information via "the structure".
+*Encoding and processing information on/via "the structure".*
 
 **New Theory of Computation for AI**
 
