@@ -16,10 +16,10 @@ My question is, briefly, does bisimulation relation necessarily imply same/simil
 (Summer 2021) New direction in **Theoretical CS**:
 
 Soon to be posted thoughts and notes on:
-### Alternatives to Turing Machines: Kolmogorov Machines
-Encoding and processing information via "the structure".
+**Alternatives to Turing Machines: Kolmogorov Machines**
+*Encoding and processing information via "the structure".
 
-### New Theory of Computation for AI
+**New Theory of Computation for AI**
 
 (August 2020) **Recent issues in Causality**:
 A summary of what happened in the field since I defended my master's thesis.
