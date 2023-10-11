@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: [Basak Kocaoglu]
-description: [ [(Twitter)](https://x.com/basak__k)
-Google Scholar (https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en)]
+description: [
+<a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a> ]
 logo: assets/img/imgg.png
 include: ["_pages"]
 
@@ -10,4 +10,8 @@ plugins:
 
  <!-- (If the lights above also makes you think that it could play Conway's Game of Life 
 (as in adafruit.com/product/89)... 
-please do reach out :) ) -->
+please do reach out :) ) 
+
+ [(Twitter)](https://x.com/basak__k)
+ 
+ -->
