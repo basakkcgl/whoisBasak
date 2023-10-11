@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: [Basak Kocaoglu]
-description: ["https://x.com/basak__k"]
+title: Basak Kocaoglu
+description: "https://x.com/basak__k"
 logo: assets/img/imgg.png
 include: ["_pages"]
 
