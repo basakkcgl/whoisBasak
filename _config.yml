@@ -1,10 +1,12 @@
 theme: jekyll-theme-minimal
 title: [Basak Kocaoglu]
-description: [<!-- (If the lights above also makes you think that it could play Conway's Game of Life 
-(as in adafruit.com/product/89)... 
-please do reach out :) ) -->]
+description: [ [(Twitter)](https://x.com/basak__k)]
 logo: assets/img/imgg.png
 include: ["_pages"]
 
 plugins:
   - jekyll-gist
+
+ <!-- (If the lights above also makes you think that it could play Conway's Game of Life 
+(as in adafruit.com/product/89)... 
+please do reach out :) ) -->
