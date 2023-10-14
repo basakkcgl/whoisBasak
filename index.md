@@ -16,6 +16,10 @@ In particular, I am interested in edge cases concerning the fundamental problems
 
 However, lately, I found myself back on the problem of **traceability** in inference systems (how does the system decide to a certain output, but not the other??). After taking Formal Languages and Automata Theory class (from Prof. Pados) now I am back on the **discrete** path, thinking about it all from a (new wave of) symbolic AI perspective.
 
+Currently attending/following:
+ - OCIS
+ - CDS 
+
 <!--- ### XAI or Sci-Fi?
 On a broader scope, I am interested in structure-function relations. So, basically, I try to understand how structure (neural architecture) gives rise to functions (learning, behavior etc., or dysfunctions like brain disorders). But, also from evolution, we know that function (as an emergent property of complex networks/interactions) gives rise to [new] structures. And sometimes (perhaps more accurate to say, oftentimes) **a weird thing** happens: different structures (hence carrying different causative functions) do serve the same function after some perturbation, or lesion. This weird phenomenon (also referred as degeneracy, multiple solutions, functional overlap, etc.) was my main research across different complex systems. I try to come up with a mathematical framework to formulate this phenomenon. Once we formulate that, then we can make machines (or any other networked systems) safe, resilient and more efficient for the tasks we favor. 
 
