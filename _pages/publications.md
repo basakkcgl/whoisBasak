@@ -11,6 +11,6 @@ Boolean networks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/
 
 Tognoli, E; <ins>Kocaoglu, B.</ins>; Engeberg, E. [The brain’s somatosensory mu rhythms: A case study for where individual and social meet.](https://twitter.com/RealBrainTC/status/1106295377437822977) (2019)
 
-MS. Thesis: [The representation problem of causal relationships in complex systems modeling.](https://open.metu.edu.tr/handle/11511/27364) (2018)
+MS. Thesis: [The representation problem of causal relationships in complex systems modeling.](https://open.metu.edu.tr/handle/11511/27364) METU (2018)
 
 [back](../index.md)
