@@ -20,7 +20,7 @@ In particular, I am interested in edge cases concerning the fundamental problems
 
 However, lately, I found myself back on the problem of **traceability** in inference systems (how does the system decide to a certain output, but not the other??). After taking Formal Languages and Automata Theory class (from Prof. Pados) now I am back on the **discrete** path, thinking about it all from a (new wave of) symbolic AI perspective.
 
-Currently attending/following:
+### Currently attending/following:
  - [OCIS](https://sites.google.com/view/ocis/)
  - [Causality Discussion Group](https://matej-zecevic.de/cdg/) 
 
