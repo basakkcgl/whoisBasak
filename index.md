@@ -5,6 +5,10 @@ Please check out [About](./_pages/aboutme.html) to see my bio and personal resea
 
 
 ### My research interests
+
+AI Alignment - Formal Verification - Causality
+
+
 I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks and we do not exactly know why. Most likely explanation is due to the naive assumptions we had to make for the sake of simplicity or computational complexity. 
 
 I have genuine interest in edge cases where our models don't work. Instead of ignoring such cases, I try to find out why they don't work - which would shed light on why they did work at first place.
