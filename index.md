@@ -1,5 +1,5 @@
 
-[Publications](./_pages/aboutme.html) || [Tools/Software](./_pages/tools.html) || [Notes](./_pages/notes.html)
+[Publications](./publications.html) || [Tools/Software](./_pages/tools.html) || [Notes](./_pages/notes.html)
 
 Please check out [About](./_pages/aboutme.html) to see my bio and personal research history.
 
