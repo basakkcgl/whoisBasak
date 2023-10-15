@@ -27,7 +27,7 @@ Soon to be posted thoughts and notes on:
 (August 2020) **Recent issues in Causality**:
 A summary of what happened in the field since I defended my master's thesis.
 
-(Spring 2019) Cheatsheet & Scanned notes for [Biosystems Modeling and Control Theory, ENG](https://drive.google.com/file/d/1skUDVPE2e6rJ-fHSg_rv75ojIa9oulLe/view?usp=sharing)
+(Spring 2019) Cheatsheet & Scanned notes for [Biosystems Modeling and Control Theory](https://drive.google.com/file/d/1skUDVPE2e6rJ-fHSg_rv75ojIa9oulLe/view?usp=sharing)
 
 
 
