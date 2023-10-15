@@ -14,7 +14,7 @@ Until recently I was a research assistant at the [Center for Connected Autonomy 
 <!--at the Center for Complex Systems and Brain Sciences working on computational neuroscience (with a specialty on reinforcement learning and predictive coding)-->
 
 <!-- <a href="(../index.md)" style="color: blue; text-decoration: underline;">CV (Fall 2022)</a> -->
-For technical explanations, please check my <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing"> (detailed) personal research history statement (last updated: December 2022) </a>
+For technical explanations, please check my <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing"> (detailed) personal research history statement </a> (last updated: December 2022)
 
 <!-- For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> -->
 
