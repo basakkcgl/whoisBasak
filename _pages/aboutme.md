@@ -18,7 +18,7 @@ For technical explanations, please check my <a href="https://drive.google.com/fi
 
 <!-- For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> -->
 
-For open access publications, please see [Publications](./publications.html). However, the most up-to-date list of publications can be reached at <a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a> 
+For open access publications, please see [Publications](./publications.html). However, the most up-to-date list of publications can be reached at <a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a>.
 
 
 <!-- Warning: If ever got missing, can be found in museums (fine arts, ancient Greek, or natural history) sitting on the floor and sketching some ideas. -->
