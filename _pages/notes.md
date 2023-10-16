@@ -29,7 +29,7 @@ A summary of what happened in the field since I defended my master's thesis.
 
 (Spring 2019) Cheatsheet & Scanned notes for [Biosystems Modeling and Control Theory](https://drive.google.com/file/d/1skUDVPE2e6rJ-fHSg_rv75ojIa9oulLe/view?usp=sharing)
 
-(Fall 2018) Scanned notes w/ visuals for first midterm [Neuroscience 1](https://drive.google.com/file/d/1N58emfypxKSJ6SDkypAShwjTnrITU35p/view?usp=sharing)
+(Fall 2018) Scanned notes w/ visuals for the first midterm [Neuroscience 1](https://drive.google.com/file/d/1N58emfypxKSJ6SDkypAShwjTnrITU35p/view?usp=sharing)
 
 
 
