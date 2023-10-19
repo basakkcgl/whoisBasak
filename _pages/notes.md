@@ -10,14 +10,15 @@ layout: default
 
 (Fall 2021) Lecture Notes for [Information Theory](https://drive.google.com/file/d/1EwVt8kZeXqZhGXscWkRcmW1rKKCShv0T/view?usp=drive_link)
 
+(Fall 2021) Soon to be posted thoughts and notes on:
+**New Theories of Computation for AI**
 
 (Summer 2021) New direction in Theoretical CS
 
 Soon to be posted thoughts and notes on:
-**Alternatives to Turing Machines: Kolmogorov Machines**
+**Alternatives to Turing Machines?: Kolmogorov Machines**
 *Encoding and processing information on/via "the structure".*
 
-**New Theory of Computation for AI**
 
 (August 2020) **Recent issues in Causality**:
 A summary of what happened in the field since I defended my master's thesis.
