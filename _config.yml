@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Basak Kocaoglu
 description: [ ]
-logo: assets/img/imgbibi.png
+logo: assets/img/imgbbibi.png
 include: ["_pages"]
 
 plugins:
