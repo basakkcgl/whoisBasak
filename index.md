@@ -23,9 +23,7 @@ However, lately, I found myself back on the problem of **traceability** in infer
 
 now I am back on the **discrete** path, thinking about it all from a (new wave of) symbolic AI perspective.
 
-### Currently attending/following:
- - [OCIS](https://sites.google.com/view/ocis/)
- - [Causality Discussion Group](https://matej-zecevic.de/cdg/) 
+
 
 <!---https://faculty.eng.fau.edu/dimitrispados/ -->
 <!--- ### XAI or Sci-Fi?
