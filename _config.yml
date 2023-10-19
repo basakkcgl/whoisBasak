@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Basak Kocaoglu
-description: [AI Alignment
-Formal Verification
+description: [AI Alignment<br>
+Formal Verification<br>
 Causality]
 logo: assets/img/imgbibi.png
 include: ["_pages"]
