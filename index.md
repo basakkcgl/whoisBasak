@@ -17,11 +17,15 @@ I have genuine interest in edge cases where our models don't work. Instead of ig
 > "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard in Venice, at KLI Summer School, 2017)
 
 
-In particular, I am interested in edge cases concerning the fundamental problems in **explainable AI**. Once we have some explanation on **why** neural networks do they do what they do (which requires exposing **causality** in the network), I want to create machines that are **safe**, and more efficient & robust in learning. I have been trying to achieve that by *"translating"* what we know from neuroscience into machines. And sometimes I did go the other way around, and played around with machine learning methods to get some insights on brains.
+In particular, I am interested in edge cases concerning the fundamental problems in **explainable AI**. 
+
+
+<!--
+Once we have some explanation on **why** neural networks do they do what they do (which requires exposing **causality** in the network), I want to create machines that are **safe**, and more efficient & robust in learning. I have been trying to achieve that by *"translating"* what we know from neuroscience into machines. And sometimes I did go the other way around, and played around with machine learning methods to get some insights on brains.
 
 However, lately, I found myself back on the problem of **traceability** in inference systems (how does the system decide to a certain output, but not the other??). 
 
-now I am back on the **discrete** path, thinking about it all from a (new wave of) symbolic AI perspective.
+now I am back on the **discrete** path, thinking about it all from a (new wave of) symbolic AI perspective.-->
 
 
 
