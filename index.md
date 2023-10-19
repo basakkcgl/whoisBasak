@@ -8,6 +8,7 @@ Please check out [About](./_pages/aboutme.html) to see my bio and personal resea
 
 AI Alignment - Formal Verification - Causality
 
+### Specifically:
 
 I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks and we do not exactly know why. Most likely explanation is due to the naive assumptions we had to make for the sake of simplicity or computational complexity. 
 
