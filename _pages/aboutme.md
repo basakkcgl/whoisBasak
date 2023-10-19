@@ -21,6 +21,11 @@ For technical explanations, please check my <a href="https://drive.google.com/fi
 For open access publications, please see [Publications](./publications.html). However, the most up-to-date list of publications can be reached at <a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a>.
 
 
+### Currently attending/following:
+ - [OCIS](https://sites.google.com/view/ocis/)
+ - [Causality Discussion Group](https://matej-zecevic.de/cdg/) 
+
+
 <!-- Warning: If ever got missing, can be found in museums (fine arts, ancient Greek, or natural history) sitting on the floor and sketching some ideas. -->
 
 [back](../index.md)
