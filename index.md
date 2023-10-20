@@ -6,7 +6,7 @@ Please check out [About](./_pages/aboutme.html) to see my bio and personal resea
 
 ### My research interests
 
-AI Alignment - Formal methods for AI - Causality - NeuroAI 
+AI Alignment - Formal methods for AI - Causality - [NeuroAI](https://xcorr.files.wordpress.com/2022/12/neuroai-big-tent-page-1.png) 
 
 **Specifically**:
 
