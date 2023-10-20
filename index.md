@@ -12,12 +12,12 @@ AI Alignment - Formal methods for AI - Causality - NeuroAI
 
 I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks and we do not exactly know why. Most likely explanation is due to the naive assumptions we had to make for the sake of simplicity or computational complexity. 
 
-I have genuine interest in edge cases where our models don't work. Instead of ignoring such cases, I try to find out why they don't work - which would shed light on why they did work at first place.
+I have genuine interest in edge cases where our models don't function as expected. Instead of ignoring such cases, I try to find out why they don't work - which would shed light on why they did work at first place.
 
-> "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard in Venice, at KLI Summer School, 2017)
+> "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard in nonlinear dynamics course at KLI summer school, 2017, Venice)
 
 
-In particular, I am interested in edge cases concerning the fundamental problems in **explainable AI**. 
+In particular, I am interested in fault tracing via causality analysis concerning the fundamental problems in AI alignment problem. 
 
 
 <!--
