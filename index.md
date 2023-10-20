@@ -14,10 +14,10 @@ I enjoy working on "edge cases". In science and engineering, we easily get carri
 
 I have genuine interest in edge cases where our models don't function as expected. Instead of ignoring such cases, I try to find out why they don't work - which would shed light on why they did work at first place.
 
-> "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard in nonlinear dynamics course at KLI summer school, 2017, Venice)
+> "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard at KLI summer school, 2017, Venice)
 
 
-In particular, I am interested in fault tracing via causality analysis concerning the fundamental problems in AI alignment problem. 
+In particular, I am interested in fault tracing via causality analysis concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
 
 
 <!--
