@@ -18,7 +18,7 @@ For technical explanations, please check my <a href="https://drive.google.com/fi
 
 <!-- For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> -->
 
-For open access publications, please see [Publications](./publications.html). However, the most up-to-date list of publications can be reached at <a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a>.
+For the publications, please see my <a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a> page. However, the most up-to-date list of open access publications can be reached at [Publications](./publications.html).
 
 
 ### Currently attending/following:
