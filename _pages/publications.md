@@ -14,7 +14,7 @@ Boolean networks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/
 Master's Thesis: [The representation problem of causal relationships in complex systems modeling.](https://open.metu.edu.tr/handle/11511/27364) METU (2018).
 
 
-<ins>Kocaoglu, B.</ins>; Balanuye, C.; Senol, Y. Poster: [Metacognitive skill-development in Medical Education: A Pilot Study
+<ins>Kocaoglu, B.</ins>; Balanuye, C.; Senol, Y. (Poster) [Metacognitive skill-development in Medical Education: A Pilot Study
 Considering Philosophical Tools of Thinking](https://www.cecog.eu/abstractbook_2015.pdf) Central European Cognitive Science Conference (2015).
 
 
