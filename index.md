@@ -17,7 +17,7 @@ I have genuine interest in edge cases where our models don't function as expecte
 > "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard at KLI summer school, 2017, Venice)
 
 
-In particular, I am interested in fault tracing via causality analysis concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
+I am interested in fault tracing via causality analysis concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
 
 
 <!--
