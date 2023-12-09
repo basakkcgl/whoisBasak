@@ -3,7 +3,9 @@ layout: default
 ---
 
 
-## Trajectory of my highly nonlinear curiosty (hence the career followed):
+## Academically:
+
+### Trajectory of my highly nonlinear curiosty (hence the career followed):
 
 A classical music literate in highschool, initially aimed to graduate from London College of Music but went to uni as an Interior Design and Fine Arts student in Antalya, but then got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and graduated as a philosopher of (cognitive) science, followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at [METU](https://www.metu.edu.tr/); in the meantime, attended two summer schools ([LMU-Munich, Germany](https://www.mcmp.philosophie.uni-muenchen.de/about/index.html) and [KLI, Austria](https://www.kli.ac.at/)); had a pre-doctoral training in neurosciences at the Brain Institute in Florida, USA. During the pandemic summer, was TAing (7+ hours daily for 3 weeks) at [Neuromatch Academy and Python Bootcamp](https://github.com/NeuromatchAcademy) and the following extended-quarantine summer, selected to be a Lead-TA Consultant.
 
@@ -25,6 +27,9 @@ For the publications, please see my <a href="https://scholar.google.com/citation
  - [OCIS](https://sites.google.com/view/ocis/)
  - [Causality Discussion Group](https://matej-zecevic.de/cdg/) 
 
+
+## Personally:
+In my spare time I enjoy studying art theory & history. After many many years, in 2023, I started to paint again. I am sketching some basic figures from [Renaissance-style studies](https://www.metmuseum.org/toah/hd/drwg/hd_drwg.htm) to regain muscle memory and, soon, planning to do more of oil paintings. My biggest inspiration is the archeological sites alongside the Aegean cost (where I am originally from), and naturally, I also like to do readings in Ancient Greek and Latin (as much as I remember certain grammatical rules). Not big on sports, but I am committed to yoga/barre and -whenever possible- practicing archery. 
 
 <!-- Warning: If ever got missing, can be found in museums (fine arts, ancient Greek, or natural history) sitting on the floor and sketching some ideas. -->
 
