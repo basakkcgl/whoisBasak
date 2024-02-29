@@ -5,7 +5,6 @@ layout: default
 
 ## Academically:
 
-**Short answer:** The trajectory of my highly nonlinear curiosty completing a full circle going from discreet maths to continuous then discreet again.
 
 **Long answer:** A classical music literate in highschool, initially aimed to graduate from London College of Music but went to uni as an Interior Design and Fine Arts student in Antalya, but then got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and graduated as a philosopher of (cognitive) science, followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at [METU](https://www.metu.edu.tr/); in the meantime, attended two summer schools ([LMU-Munich, Germany](https://www.mcmp.philosophie.uni-muenchen.de/about/index.html) and [KLI, Austria](https://www.kli.ac.at/)); had a pre-doctoral training in neurosciences at the Brain Institute in Florida, USA. During the pandemic summer, was TAing at [Neuromatch Academy and Python Bootcamp](https://github.com/NeuromatchAcademy) and the following extended-quarantine summer, selected to be a Lead-TA Consultant.
 
