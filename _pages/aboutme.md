@@ -6,7 +6,7 @@ layout: default
 ## Academically:
 
 
-**Long answer:** A classical music literate in highschool, initially aimed to graduate from London College of Music but went to uni as an Interior Design and Fine Arts student in Antalya, but then got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and graduated as a philosopher of (cognitive) science, followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at [METU](https://www.metu.edu.tr/); in the meantime, attended two summer schools ([LMU-Munich, Germany](https://www.mcmp.philosophie.uni-muenchen.de/about/index.html) and [KLI, Austria](https://www.kli.ac.at/)); had a pre-doctoral training in neurosciences at the Brain Institute in Florida, USA. During the pandemic summer, was TAing at [Neuromatch Academy and Python Bootcamp](https://github.com/NeuromatchAcademy) and the following extended-quarantine summer, selected to be a Lead-TA Consultant.
+**Long answer:** A classical music literate in highschool, initially aimed to graduate from London College of Music but went to uni as an Interior Design and Fine Arts student in Antalya, but then got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and graduated as a philosopher of (cognitive) science, followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at [METU](https://www.metu.edu.tr/); in the meantime, attended two summer schools ([LMU-Munich, Germany](https://www.mcmp.philosophie.uni-muenchen.de/about/index.html) and [KLI, Austria](https://www.kli.ac.at/)); had a pre-doctoral training in neurosciences at the Brain Institute in Florida, USA. During the pandemic summer, was TAing at [Neuromatch Academy and Python Bootcamp](https://github.com/NeuromatchAcademy).
 
 Until recently I was a research assistant at the [Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/) under the supervison of <a href="(https://faculty.eng.fau.edu/dimitrispados/)" style="color: black;">**Prof. Pados**</a>. 
 
@@ -25,5 +25,6 @@ For the publications, please see my <a href="https://scholar.google.com/citation
 ## Personally:
 In my spare time I enjoy studying art history & theory. I like to sketch some [Renaissance-style studies](https://www.metmuseum.org/toah/hd/drwg/hd_drwg.htm) here and there. My biggest inspiration is the archeological sites alongside the Aegean (where I am originally from). Not big on sports, but I am committed to yoga/barre and -whenever possible- practicing archery and snowboarding. 
 
+Currently reading: "After the end of art" by Arthur Danto.
 
 [back](../index.md)
