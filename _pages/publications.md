@@ -4,7 +4,7 @@ layout: default
 
 ## Open access:
 
- Varela, C.; Moreira, J.; <ins>Kocaoglu, B.</ins>; Dura-Bernal, S.; Ahmad, S. [A Mechanism for Deviance Detection and Contextual Routing in the Thalamus: A Computational Proposal](https://twitter.com/joaovviitor/status/1591147838918234112?s=51&t=TSaX9LTfCeSobPN69A3XPw) (submitted 2023) [Frontiers in Neuroscience (Hypothesis/Theory)](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1359180/full) (published 2024).
+ Varela, C.; Moreira, J.; <ins>Kocaoglu, B.</ins>; Dura-Bernal, S.; Ahmad, S. [A Mechanism for Deviance Detection and Contextual Routing in the Thalamus: A Computational Proposal](https://twitter.com/joaovviitor/status/1591147838918234112?s=51&t=TSaX9LTfCeSobPN69A3XPw) (submitted 2023) [Published](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1359180/full) Frontiers in Neuroscience (Hypothesis/Theory) (2024).
 
 <ins>Kocaoglu, B.</ins>; Alexander, W., [Degeneracy measures in biologically plausible random
 Boolean networks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04601-5) BMC Bioinformatics (2022) 23:71.
