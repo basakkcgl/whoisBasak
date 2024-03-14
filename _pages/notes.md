@@ -6,7 +6,7 @@ layout: default
 (September 2022) A question on [bisimulation](./bisimnote.html) and functional redundancy.
 
 
-(Spring 2022) Lecture Notes for [Formal Languages and Automata Theory](https://drive.google.com/file/d/1NKybcvr-j9wWdZ6dn146ImT4Y3Bb_HvP/view?usp=drive_link)
+(Spring 2022) Lecture Notes for [Formal Languages and Automata Theory]([https://drive.google.com/file/d/1NKybcvr-j9wWdZ6dn146ImT4Y3Bb_HvP/view?usp=drive_link](https://drive.google.com/file/d/1NKybcvr-j9wWdZ6dn146ImT4Y3Bb_HvP/view?usp=sharing))
 
 (Fall 2021) Lecture Notes for [Information Theory](https://drive.google.com/file/d/1EwVt8kZeXqZhGXscWkRcmW1rKKCShv0T/view?usp=drive_link)
 
