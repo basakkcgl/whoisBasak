@@ -10,9 +10,9 @@ AI Alignment - Formal methods for AI - Causality - [NeuroAI](https://xcorr.files
 
 **Specifically**:
 
-I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks and we do not exactly know why. Most likely explanation is due to the naive assumptions we had to make for the sake of simplicity or computational complexity. 
+<!--  I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks and we do not exactly know why. Most likely explanation is due to the naive assumptions we had to make for the sake of simplicity or computational complexity. -->
 
-I have genuine interest in edge cases where our models don't function as expected. Instead of ignoring such cases, I try to find out why they don't work - which would shed light on why they did work at first place.
+I have genuine interest in corner cases where our models don't function as expected. Instead of ignoring such cases, I try to find out why they don't work - which would shed light on why they did work at first place.
 
 > "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard at KLI summer school, 2017, Venice)
 
@@ -20,23 +20,9 @@ I have genuine interest in edge cases where our models don't function as expecte
 I am interested in fault tracing via causality analysis concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
 
 
-<!--
-Once we have some explanation on **why** neural networks do they do what they do (which requires exposing **causality** in the network), I want to create machines that are **safe**, and more efficient & robust in learning. I have been trying to achieve that by *"translating"* what we know from neuroscience into machines. And sometimes I did go the other way around, and played around with machine learning methods to get some insights on brains.
-
-However, lately, I found myself back on the problem of **traceability** in inference systems (how does the system decide to a certain output, but not the other??). 
-
-now I am back on the **discrete** path, thinking about it all from a (new wave of) symbolic AI perspective.-->
 
 
 
-<!---https://faculty.eng.fau.edu/dimitrispados/ -->
-<!--- ### XAI or Sci-Fi?
-On a broader scope, I am interested in structure-function relations. So, basically, I try to understand how structure (neural architecture) gives rise to functions (learning, behavior etc., or dysfunctions like brain disorders). But, also from evolution, we know that function (as an emergent property of complex networks/interactions) gives rise to [new] structures. And sometimes (perhaps more accurate to say, oftentimes) **a weird thing** happens: different structures (hence carrying different causative functions) do serve the same function after some perturbation, or lesion. This weird phenomenon (also referred as degeneracy, multiple solutions, functional overlap, etc.) was my main research across different complex systems. I try to come up with a mathematical framework to formulate this phenomenon. Once we formulate that, then we can make machines (or any other networked systems) safe, resilient and more efficient for the tasks we favor. 
-
-### weird thing?
-Degeneracy (or functional redundancy) was my biggest leverage against most of the causal models. I studied available theories of causation (at least up until 2017/2018 - when I defended my master's thesis) that are used for modeling and inferring causal relations in complex systems (such as brain) and pointed out that most of them **except one** either have *costly* assumptions in the models that don't apply for **nonlinear** systems, or they just don't generalize at all. That exception was called **counterfactual** theory of causation and basically I did not have much to argue against it. But then **I showed** that counterfactual models cannot apply in cases where the system is highly degenerate.  So, I won (philosophically speaking). And since then I try to mathematically formalize this weird phenomenon that got me passed my master's thesis defense (thank you, weird thing!).
-
--->
 
 
 
