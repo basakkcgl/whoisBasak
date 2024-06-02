@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Basak Kocaoglu
 description: [ ]
-logo: assets/img/IMG_0553.jpg
+logo: assets/img/IMG_0553.JPG
 include: ["_pages"]
 
 plugins:
