@@ -8,7 +8,6 @@ Please check out [About](./_pages/aboutme.html) to see my bio and personal resea
 
 AI Alignment - Formal methods for AI - Causality - [NeuroAI](https://xcorr.files.wordpress.com/2022/12/neuroai-big-tent-page-1.png) 
 
-**Specifically**:
 
 <!--  I enjoy working on "edge cases". In science and engineering, we easily get carried away with the success/prediction rates of our models and how "well" they perform. But, oftentimes, our models do poorly at trivial(?) tasks and we do not exactly know why. Most likely explanation is due to the naive assumptions we had to make for the sake of simplicity or computational complexity. -->
 
@@ -17,9 +16,22 @@ I have genuine interest in corner cases where our models don't function as expec
 > "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard at KLI summer school, 2017, Venice)
 
 
-I am interested in fault tracing via causality analysis concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
+I am interested in fault tracing via causality concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
 
 
+**Specifically**:
+
+My research interests revolve around concerns related to AI Alignment in safety-critical systems. I am particularly interested in AI safety risks that emerge as a result of flawed system design choices. Such issues can arise from (i) selecting the incorrect objective function, (ii) selecting a difficult/expensive to evaluate objective function, and/or (iii) undesirable behavior exacerbated by the training procedure (e.g. distribution shifts) [1]. I intend to concentrate on the robustness failures from the problem of (iii). However, the listed problems are intertwined since potential solutions for (iii) imply a solution to (i) where the correctness guarantees of the objective function should not be impeded by the computing time and evaluation problem of (ii). An objective function designates the ends in AI system design, but it can be misleading because, in practice, it is often an incomplete specification [2]. Even if the system satisfy the given (incomplete) specification, the means are also important because the system may have discovered undesirable loopholes to solve the task (namely, reward hacking/reward corruption/specification gaming) [2-4]. Furthermore, even with the correct specifications, undesirable behaviors may still emerge due to corner cases, as different conditions may trigger the systems to find unsafe workarounds to complete the tasks. Existing techniques for improving robustness mostly rely on Gaussian statistics and i.i.d. assumptions, making them unsuitable for a wide range of distribution families. As a result, the verification techniques to be developed should be able to perform model checking in a variety of distributions and, possibly, partially observable scenarios. Developing a novel logic-based formalism specifically for AI verification enhanced with causal reasoning would be one way to approach the aforementioned issues. Causality combined with the probabilistic model checking framework [5] can be used to characterize the different types of distribution shifts and their effects on system behavior. The new framework would require special focus on working assumptions such as causal sufficiency (‘no unobserved confounding’).
+
+The main purpose of the tools to be developed is to building up the theoretical infrastructure for a flexible formal verification method to cope with potential degeneracies in any kind of sequential decision-making process which are broadly implemented in AI systems. The future research on the presented questions concerning the theory of AI may invoke the development of new methods that would have direct practical applications in the field. I am most curious about the application areas of autonomous driving, robotics and control, and neuroAI. Due to the immediate impacts on the human-life, these applications particularly highlight the need for theoretically-supported and safe AI engineering practice.
+
+References:
+
+[1] Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Man´e, D. (2016). Concrete problems in AI safety. arXiv preprint arXiv:1606. 06565.
+[2] Krueger, D., Maharaj, T., Legg, S., & Leike, J. (2019). Misleading meta-objectives and hidden incentives for distributional shift. In Workshop on Safe Machine Learning at the 7th International Conference on Learning Representations (ICLR 2019)(pp. 1-7).
+[3] Leike, J., Martic, M., Krakovna, V., Ortega, P. A., Everitt, T., Lefrancq, A., ... & Legg, S. (2017). AI safety gridworlds. arXiv preprint arXiv:1711.09883.
+[4] Everitt, T., Krakovna, V., Orseau, L., Hutter, M., & Legg, S. (2017). Reinforcement learning with a corrupted reward channel. arXiv preprint arXiv:1705. 08417
+[5] Wang, B., Lyle, C., & Kwiatkowska, M. (2021, August). Provable guarantees on the robustness of decision rules to causal interventions. In Proceedings of the International Joint Conference on Artificial Intelligence. International Joint Conferences on Artificial Intelligence Organization.
 
 
 
