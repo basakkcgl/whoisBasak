@@ -28,9 +28,13 @@ The main purpose of the tools to be developed is to building up the theoretical 
 References:
 
 [1] Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Man´e, D. (2016). Concrete problems in AI safety. arXiv preprint arXiv:1606. 06565.
+
 [2] Krueger, D., Maharaj, T., Legg, S., & Leike, J. (2019). Misleading meta-objectives and hidden incentives for distributional shift. In Workshop on Safe Machine Learning at the 7th International Conference on Learning Representations (ICLR 2019)(pp. 1-7).
+
 [3] Leike, J., Martic, M., Krakovna, V., Ortega, P. A., Everitt, T., Lefrancq, A., ... & Legg, S. (2017). AI safety gridworlds. arXiv preprint arXiv:1711.09883.
+
 [4] Everitt, T., Krakovna, V., Orseau, L., Hutter, M., & Legg, S. (2017). Reinforcement learning with a corrupted reward channel. arXiv preprint arXiv:1705. 08417
+
 [5] Wang, B., Lyle, C., & Kwiatkowska, M. (2021, August). Provable guarantees on the robustness of decision rules to causal interventions. In Proceedings of the International Joint Conference on Artificial Intelligence. International Joint Conferences on Artificial Intelligence Organization.
 
 
