@@ -20,7 +20,7 @@ For the publications, please see my <a href="https://scholar.google.com/citation
 ### Currently attending/following:
  - [OCIS](https://sites.google.com/view/ocis/)
  - [Causality Discussion Group](https://matej-zecevic.de/cdg/)
- - [Seminar on Advances in Probabilistic Machine Learning (ELLIS Network)](https://aaltoml.github.io/apml/)
+ - [Seminar on Advances in Probabilistic Machine Learning - ELLIS](https://aaltoml.github.io/apml/)
 
 
 ## Personally:
