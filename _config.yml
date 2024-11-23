@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
 title: Basak Kocaoglu
 description: [
-basak.kocaoglu (at) kcl.ac.uk \
-b.kocaoglu24 (at) imperial.ac.uk \ 
-Twitter @Basak__k ]
+basak.kocaoglu (at) kcl.ac.uk 
+b.kocaoglu24 (at) imperial.ac.uk ]
 logo: assets/img/IMG_0912.jpg
 include: ["_pages"]
 
