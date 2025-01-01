@@ -27,6 +27,6 @@ For the publications, please see my <a href="https://scholar.google.com/citation
 ## Personally:
 In my spare time I enjoy studying art history & theory. I like to draw (and oil paint, mostly) here and there. My biggest inspiration is the archeological sites alongside the Aegean (where I am originally from). Not big on sports, but I am committed to yoga/barre and -whenever possible- practicing archery and snowboarding. 
 
-Currently reading: [see on Goodreads](https://www.goodreads.com/user/show/161735010-basak) <!--  -->
+Currently reading: see on [Goodreads](https://www.goodreads.com/user/show/161735010-basak) <!--  -->
 
 [back](../index.md)
