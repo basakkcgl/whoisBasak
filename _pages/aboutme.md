@@ -17,7 +17,7 @@ For technical explanations, please check my <a href="https://drive.google.com/fi
 
 For the publications, please see my <a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a> page. However, the most up-to-date list of open access publications can be reached at [Publications](./publications.html).
 
-I personally disguise using LinkedIn, but if that's of any importance to you here is my profile (proabably to be deleted as soon as I secure a permanent position): [linked](www.linkedin.com/in/basak-k-)
+I personally disguise using LinkedIn, but if that's of any importance to you here is my profile (most likely to be deleted as soon as I get to a permanent position): [linked](www.linkedin.com/in/basak-k-)
 
 
 ### Currently attending/following:
