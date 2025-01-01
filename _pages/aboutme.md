@@ -7,7 +7,7 @@ layout: default
 
 
 I got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and graduated as a philosopher of (cognitive) science, followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at [METU](https://www.metu.edu.tr/); in the meantime, attended two summer schools ([LMU-Munich, Germany](https://www.mcmp.philosophie.uni-muenchen.de/about/index.html) and [KLI, Austria](https://www.kli.ac.at/)); had a pre-doctoral training in neurosciences at the Brain Institute in Florida, USA. During the pandemic summer, was TAing at [NMA Computational Neuroscience Summer School](https://github.com/NeuromatchAcademy).
-For the last couple years in South Florida, I was a research assistant at the [Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/) under the supervison of <a href="(https://faculty.eng.fau.edu/dimitrispados/)" style="color: black;">**Prof. Pados**</a>. I re-joined the NMA team as a Project-TA for the inaugural advanced course on NeuroAI last summer.
+For the last couple years in South Florida, I was a research assistant at the [Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/) under the supervison of <a href="(https://faculty.eng.fau.edu/dimitrispados/)" style="color: black;">**Prof. Pados**</a>. I re-joined the NMA team as a Project-TA for the inaugural [advanced course on NeuroAI](https://neuromatch.io/neuroai-course/) last summer.
 
 Currently working with Drs. Paoletti and Watson at King's College London while also being affiliated with Imperial College London through Safe and Trusted AI CDT Programme.
 
