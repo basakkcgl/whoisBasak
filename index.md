@@ -19,6 +19,10 @@ I have genuine interest in corner cases where our models don't function as expec
 I am interested in developing tools for fault tracing via causality concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
 
 
+### Research topics I am also interested (aka. sidetracked by):
+Mathematical physics of (space)time, Information Geometry, Neuromorphic computing...
+
+
 <!-- **To be specific**: 
 
 My research interests revolve around concerns related to AI Alignment in safety-critical systems.
